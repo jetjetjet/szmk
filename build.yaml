@@ -17,3 +17,5 @@ include:
     shield: sofle_left
   - board: nrf5340dk_nrf5340_cpuapp
     shield: sofle_right
+  - board: nrf5340dk_nrf5340_cpuapp
+    shield: settings_reset
